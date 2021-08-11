@@ -307,7 +307,7 @@
     <evolokNotifierUrl>https://ev.indianexpress.com/acd/api/3.0/widgets/templates/notifier</evolokNotifierUrl>
     <evolokSSORedirectUrl>https://indianexpress.com/subscribe/</evolokSSORedirectUrl>
     <evolokSSOMyOrderURL>https://indianexpress.com/subscriptions/</evolokSSOMyOrderURL>
-    <useEvolokSSO>yes</useEvolokSSO>
+    <useEvolokSSO>no</useEvolokSSO>
     <uaAPIUrl>https://ua.indianexpress.com/api/</uaAPIUrl>
     <uaGeoIpUrl>https://ua.indianexpress.com/api/geoip/resolve</uaGeoIpUrl>
     <authorEmailText> Get updates from your favourite author on mail. Sign up here.</authorEmailText>
